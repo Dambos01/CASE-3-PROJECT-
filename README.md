@@ -103,3 +103,26 @@ Measures
 ### Measures
      - `Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
      - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'`
+
+## RESULT_FINDINGS 
+-  First and foremost before making any conclusions or decisions, I'd First determine thr gender distribution of the employees  by gender to sort out if the issues are covered in inequality or something different since we the company didn't disclose some gender either paid or not.
+-  The gender distribution by Salary was my first target
+-   40(4.23%) not disclosed gender, 465(49.15%) from the male gender,  and 441(46.62%) from the female gender, it's cleared that more of male gender to the female been paid well.
+-  I thought to consider their localities (region), I was given three major state in Nigeria, Abuja, Kaduna and lagos. We have  more of male gender again ( 361) situated in the northern part of the state, Kaduna,  and the female with (335) in Abuja, leaving (250) I'm the lagos undisclosed.There is no doubt of not considering gender biasness.
+-  I decided to look into where the bonus rate are going to in terms of (sum) paid to this difference region, I uncovered that Kaduna and Abuja has the highest rate.
+
+## RECOMMENDATION 
+
+As an HR professional, I strongly advise focusing on two key areas:
+- Data Accuracy and Timeliness:Ensure accurate and up-to-date employee data across all three states. This will help identify and verify the identity of undisclosed workers, enabling better workforce management.
+
+- Fair Remuneration and Bonus Distribution: Implement a system for evenly distributing bonuses and salaries based on employee experience and performance. This will promote fairness, transparency, and employee satisfaction.
+
+## LIMITATIONS 
+-  In accuracy in the data given, I believe the company should consider reviewing the data of every region and departments
+
+## REFERENCE 
+
+-  PowerBi
+- https://github.com/Dambos01/CASE-3-PROJECT-/edit/main/README.md
+   
